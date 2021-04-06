@@ -11,6 +11,7 @@ For this tutorial you will need:
     3) LED
     4) 220 Ohm resistor
     5) Push Button
+    
 ![](Linux/BlinkLED/image/Atmega8.jpeg)
 
 ![](Linux/BlinkLED/image/BreadBoard.jpg)
